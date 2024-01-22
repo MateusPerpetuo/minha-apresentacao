@@ -12,7 +12,7 @@ Por exemplo, coloquei uma div atrás da minha foto e usei CSS para dar um efeito
 
 Além disso, usei a pseudo-classe :hover para criar animações na minha foto e nos botões de links.
 
-Para testá-lo sem precisar baixar os arquivos, apenas [acesse este link](https://jogo-do-numero-misterioso.vercel.app/).
+Para testá-lo sem precisar baixar os arquivos, apenas [acesse este link]([https://jogo-do-numero-misterioso.vercel.app/](https://minha-apresentacao-nine.vercel.app/)).
 
 ### Tela
 
