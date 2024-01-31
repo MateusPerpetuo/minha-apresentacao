@@ -12,6 +12,13 @@ Por exemplo, coloquei uma div atrás da minha foto e usei CSS para dar um efeito
 
 Além disso, usei a pseudo-classe :hover para criar animações na minha foto e nos botões de links.
 
+## Atualização
+
+Aprendi sobre Media Queries desde que desenvolvi esse projeto. Recentemente, decidi aplicar um pouco desses conhecimentos para atualizá-lo, deixando-o totalmente responsivo.
+
+Para isso, usei Media Queries para controlar o layout do site em diferentes tamanhos de tela. Por exemplo, redimensionei as imagens para que elas ficassem com um tamanho mais adequado, assim como os botões com os links das redes sociais.
+
+A atualização foi um sucesso! O site agora se adapta perfeitamente a diferentes tamanhos de tela, proporcionando uma melhor experiência para todos os usuários.
 
 ### Como posso ver a página?
 
@@ -22,4 +29,8 @@ Para testá-lo sem precisar baixar os arquivos, apenas [acesse este link](https:
 ## Tela
 
 
-![image](https://github.com/MateusPerpetuo/minha-apresentacao/assets/129229556/446d7311-1fdf-4155-a297-38fb3ae5a820)
+![image](https://github.com/MateusPerpetuo/minha-apresentacao/assets/129229556/05b1b0e4-6f06-4cf1-96e4-32181d9b9677)
+
+![image](https://github.com/MateusPerpetuo/minha-apresentacao/assets/129229556/9f86a599-bf40-4b8f-9101-487ea17d1144)
+
+
