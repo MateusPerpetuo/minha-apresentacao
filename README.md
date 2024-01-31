@@ -12,7 +12,7 @@ Por exemplo, coloquei uma div atrás da minha foto e usei CSS para dar um efeito
 
 Além disso, usei a pseudo-classe :hover para criar animações na minha foto e nos botões de links.
 
-## Atualização
+### Atualização
 
 Aprendi sobre Media Queries desde que desenvolvi esse projeto. Recentemente, decidi aplicar um pouco desses conhecimentos para atualizá-lo, deixando-o totalmente responsivo.
 
@@ -20,7 +20,7 @@ Para isso, usei Media Queries para controlar o layout do site em diferentes tama
 
 A atualização foi um sucesso! O site agora se adapta perfeitamente a diferentes tamanhos de tela, proporcionando uma melhor experiência para todos os usuários.
 
-### Como posso ver a página?
+## Como posso ver a página?
 
 
 Para testá-lo sem precisar baixar os arquivos, apenas [acesse este link](https://minha-apresentacao-nine.vercel.app/).
